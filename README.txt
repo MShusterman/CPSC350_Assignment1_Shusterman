@@ -1,0 +1,12 @@
+Resources:
+	- https://stackoverflow.com/questions/21589353/cannot-convert-stdbasic-stringchar-to-const-char-for-argument-1-to-i
+	- http://cplusplus.com/reference/clibrary/cstdio/remove.html
+	- https://www.reddit.com/r/cpp_questions/comments/7423sf/what_is_the_difference_between_const_char_and/
+	- https://stackoverflow.com/questions/2393345/how-to-append-text-to-a-text-file-in-c
+	- https://www.geeksforgeeks.org/cpp-program-to-append-content-of-one-text-file-to-another/
+	- stackoverflow.com/questions/5590381/easiest-way-to-convert-int-to-string-in-c/5590404
+	- http://www.cplusplus.com/forum/beginner/66123/
+	- https://www.tutorialspoint.com/cplusplus/cpp_break_statement.htm
+	- https://www.tutorialspoint.com/cplusplus/cpp_loop_types.htm
+	- https://javascript.info/while-for
+	- https://stackoverflow.com/questions/1331318/how-an-if-a-b-statement-is-evaluated
